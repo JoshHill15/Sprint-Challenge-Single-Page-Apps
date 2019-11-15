@@ -37,3 +37,36 @@ main {
 header h1 {
   text-align: center;
 }
+.card{
+  background:lightgoldenrodyellow;
+}
+.cardbody{
+  background: darkcyan;
+  font-size:2rem;
+}
+.search{
+  font-size:1.5rem;
+  display:flex;
+  justify-content: center;
+  background:lightseagreen;
+  padding:2%;
+  margin-bottom:2%;
+}
+.search1{
+  font-size:2rem;
+  margin-right:3%;
+}
+.link{
+  color:black;
+  font-size: 3rem;
+}
+.links{
+  background:lightseagreen;
+  display:flex;
+  justify-content: space-evenly;
+  padding:2%;
+}
+.header{
+  font-size:3rem;
+  background:lightgreen;
+}
