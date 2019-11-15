@@ -27,7 +27,8 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer: after the web page has completely loaded routing through the website is marginally faster, 
+since the page doesn't have to "flash" everytime the user interacts it helps with general UI  as well.
 
 ## Project Set Up
 
