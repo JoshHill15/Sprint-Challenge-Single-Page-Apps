@@ -2,6 +2,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+
 }
 
 main {
@@ -37,8 +38,17 @@ main {
 header h1 {
   text-align: center;
 }
+.col{
+  margin: 0 auto;
+}
 .card{
-  background:lightgoldenrodyellow;
+   border: none;
+  /* background: green;  */
+  margin: 2% auto;
+}
+.cards{
+  /* border: 4px solid red; */
+  margin: 2% auto;
 }
 .cardbody{
   background: darkcyan;
@@ -50,7 +60,7 @@ header h1 {
   justify-content: center;
   background:lightseagreen;
   padding:2%;
-  margin-bottom:2%;
+  /* margin-bottom:2%; */
 }
 .search1{
   font-size:2rem;
